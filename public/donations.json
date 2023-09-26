@@ -7,6 +7,7 @@
     "color_group_bg": "#0052ff",
     "color_card_bg": "rgba(0, 82, 255, 0.15)",
     "color_text": "#0052FF",
+    "color_text_btn": "#0052FF",
     "description": "Support our 'Clean water for children' initiative to provide vital healthcare services to those in need. Your donation can save lives and make a real difference in improving health and well-being.",
     "price": 210
   },
@@ -18,6 +19,7 @@
     "color_group_bg": "#ff444a",
     "color_card_bg": "rgba(255, 68, 74, 0.15)",
     "color_text": "#FF444A",
+    "color_text_btn": "#FF444A",
     "description": "Contribute to our 'Good education' and support quality education for under served communities. Help empower the next generation of leaders and change makers.",
     "price": 258
   },
@@ -29,6 +31,7 @@
     "color_group_bg": "rgba(121, 194, 63, 0.15)",
     "color_card_bg": "rgba(121, 194, 63, 0.15)",
     "color_text": "#79C23F",
+    "color_text_btn": "#79C23F",
     "description": "Join our 'Used Clothing Drive' and provide warmth and comfort through donations of gently used or new clothing items. Help those facing difficult circumstances.",
     "price": 110
   },
@@ -40,6 +43,7 @@
     "color_group_bg": "rgba(248, 113, 71, 0.15)",
     "color_card_bg": "rgba(248, 113, 71, 0.15)",
     "color_text": "#F87147",
+    "color_text_btn": "#F87147",
     "description": "Support our 'Better Food for Everyone' and help combat hunger by providing nutritious meals to those in need. Your contribution can make a significant impact on alleviating food insecurity.",
     "price": 240
   },
@@ -51,6 +55,7 @@
     "color_group_bg": "rgba(248, 113, 71, 0.15)",
     "color_card_bg": "rgba(248, 113, 71, 0.15)",
     "color_text": "#F87147",
+    "color_text_btn": "#F87147",
     "description": "Support our 'Better Food for Everyone' and help combat hunger by providing nutritious meals to those in need. Your contribution can make a significant impact on alleviating food insecurity.",
     "price": 200
   },
@@ -62,6 +67,7 @@
     "color_group_bg": "rgba(121, 194, 63, 0.15)",
     "color_card_bg": "rgba(121, 194, 63, 0.15)",
     "color_text": "#79C23F",
+    "color_text_btn": "#79C23F",
     "description": "Join our 'Used Clothing Drive' and provide warmth and comfort through donations of gently used or new clothing items. Help those facing difficult circumstances.",
     "price": 108
   },
@@ -73,6 +79,7 @@
     "color_group_bg": "#ff444a",
     "color_card_bg": "rgba(255, 68, 74, 0.15)",
     "color_text": "#FF444A",
+    "color_text_btn": "#FF444A",
     "description": "Contribute to our 'Good education' and support quality education for under served communities. Help empower the next generation of leaders and change makers.",
     "price": 255
   },
@@ -84,6 +91,7 @@
     "color_group_bg": "#0052ff",
     "color_card_bg": "rgba(0, 82, 255, 0.15)",
     "color_text": "#0052FF",
+    "color_text_btn": "#0052FF",
     "description": "Support our 'Clean water for children' initiative to provide vital healthcare services to those in need. Your donation can save lives and make a real difference in improving health and well-being.",
     "price": 150
   },
@@ -95,6 +103,7 @@
     "color_group_bg": "#0052ff",
     "color_card_bg": "rgba(0, 82, 255, 0.15)",
     "color_text": "#0052FF",
+    "color_text_btn": "#0052FF",
     "description": "Support our 'Clean water for children' initiative to provide vital healthcare services to those in need. Your donation can save lives and make a real difference in improving health and well-being.",
     "price": 250
   },
@@ -106,6 +115,7 @@
     "color_group_bg": "#ff444a",
     "color_card_bg": "rgba(255, 68, 74, 0.15)",
     "color_text": "#FF444A",
+    "color_text_btn": "#FF444A",
     "description": "Contribute to our 'Good education' and support quality education for under served communities. Help empower the next generation of leaders and change makers.",
     "price": 225
   },
@@ -117,6 +127,7 @@
     "color_group_bg": "rgba(121, 194, 63, 0.15)",
     "color_card_bg": "rgba(121, 194, 63, 0.15)",
     "color_text": "#79C23F",
+    "color_text_btn": "#79C23F",
     "description": "Join our 'Used Clothing Drive' and provide warmth and comfort through donations of gently used or new clothing items. Help those facing difficult circumstances.",
     "price": 167
   },
@@ -128,6 +139,7 @@
     "color_group_bg": "rgba(248, 113, 71, 0.15)",
     "color_card_bg": "rgba(248, 113, 71, 0.15)",
     "color_text": "#F87147",
+    "color_text_btn": "#F87147",
     "description": "Support our 'Better Food for Everyone' and help combat hunger by providing nutritious meals to those in need. Your contribution can make a significant impact on alleviating food insecurity.",
     "price": 120
   }

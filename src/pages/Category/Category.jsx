@@ -2,6 +2,8 @@ import { useEffect, useState } from "react";
 import { useLoaderData, useParams } from "react-router-dom";
 import CategoryCard from "./CategoryCard";
 
+
+
 const Category = () => {
 
     const [category, setCategory] = useState({})

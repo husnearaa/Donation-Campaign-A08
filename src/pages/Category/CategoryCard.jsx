@@ -3,7 +3,7 @@ import swal from "sweetalert";
 
 
 const CategoryCard = ({ category }) => {
-    const { id, picture, group, title, color_group_bg, color_card_bg, color_text, price, description } = category || {}
+    const { id, picture, group, title, color_group_bg, color_text_btn, color_card_bg, color_text, price, description } = category || {}
 
     const handleAddDonation = () => {
         // console.log(category);
