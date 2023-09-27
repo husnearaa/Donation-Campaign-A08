@@ -2,8 +2,8 @@
 import { PieChart, Pie, Tooltip, Cell, Legend } from 'recharts';
 
 const data = [
-  { name: 'Total Donation', value: 400 },
-  { name: 'Your Donation', value: 300 },
+  { name: 'Total Donation', value: 100 },
+  { name: 'Your Donation', value: 70 },
  
 ];
 
@@ -23,7 +23,7 @@ const renderCustomizedLabel = ({ cx, cy, midAngle, innerRadius, outerRadius, per
 
 const StatisticsPie = () => {
   return (
-    <PieChart width={400} height={400}>
+    <PieChart width={400} height={400} style={{}}>
       <Pie
         dataKey="value"
         data={data}
