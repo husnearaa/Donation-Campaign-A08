@@ -1,10 +1,20 @@
+import StatisticsPie from "./StatisticsPie";
+
+
+
 
 const Statistics = () => {
+
+
     return (
-        <div>
-            <h2>Statistics</h2>
+        <div className="h-[50vh] flex justify-center items-center">
+            <StatisticsPie></StatisticsPie>
         </div>
     );
 };
 
 export default Statistics;
+
+
+
+

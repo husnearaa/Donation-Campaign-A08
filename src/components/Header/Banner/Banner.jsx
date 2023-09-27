@@ -3,7 +3,7 @@ const Banner = () => {
     return (
         <div className="h-[70vh] relative">
             <div className="">
-                <img className="h-[70vh] w-full max-w-[1300px] mx-auto absolute " src={"https://i.ibb.co/Q6j07CL/Rectangle-4281.png"} alt="" />
+                <img className="h-[70vh] pt-[-150px] w-full mx-auto absolute " src={"https://i.ibb.co/Q6j07CL/Rectangle-4281.png"} alt="" />
                 <div className="absolute inset-0 bg-white opacity-90"></div>
 
                 <div className="relative flex justify-center items-center pt-40">

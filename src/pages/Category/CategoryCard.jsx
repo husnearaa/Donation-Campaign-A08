@@ -56,6 +56,8 @@ const CategoryCard = ({ category }) => {
                     <p className="mt-3 ">{description}</p>
                 </div>
             </div>
+           
+
         </div>
     );
 };

@@ -51,18 +51,22 @@ const Donation = () => {
                             ))
                         }
                     </div>
-                     {/* condition for see all and less */}
-                    <button onClick={() => setIsShow(!isShow)} className="px-8 py-2 rounded-lg mt-10 mb-20 bg-[#009444] text-white block mx-auto">
+                     {/* condition for see all and less  */}
+                        <button onClick={() => setIsShow(!isShow)} className="px-8 py-2 rounded-lg mt-10 mb-20 bg-[#009444] text-white block mx-auto">
                         {isShow? "See Less"  : "See All"}
                     </button>
 
 
-                    {/* condition for only show . and without it hidden */}
+                    {/* condition for only show */}
                     {/* {
-                        donation.length > 4 && <button onClick={() => setIsShow(!isShow)} className="px-8 py-2 rounded-lg mt-10 mb-20 bg-[#009444] text-white block mx-auto">
+                        donation.length > 2 && <button onClick={() => setIsShow(!isShow)} className="px-8 py-2 rounded-lg mt-10 mb-20 bg-[#009444] text-white block mx-auto">
                         {isShow? "See Less"  : "See All"}
                     </button>
                     } */}
+
+
+
+
                 </div>
             }
         </div>
